@@ -24,9 +24,12 @@
 
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
-## Tabulation
+ 
 
 ## Graph
+<img width="720" height="177" alt="image" src="https://github.com/user-attachments/assets/c16aef27-0468-4ea8-8c22-da9833ad2412" />
+
+<img width="720" height="178" alt="image" src="https://github.com/user-attachments/assets/2adf0a64-af24-4261-9bf8-7110e19b4204" />
 
 
 ## **Result**
