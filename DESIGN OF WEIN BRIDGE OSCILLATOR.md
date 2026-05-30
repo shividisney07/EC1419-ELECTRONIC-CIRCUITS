@@ -13,9 +13,13 @@
 <img width="592" height="645" alt="image" src="https://github.com/user-attachments/assets/4946746e-b580-46e5-b577-5780890576ea" />
 
 
-## Tabulation
+## Calculation
+<img width="628" height="1001" alt="image" src="https://github.com/user-attachments/assets/cd20a354-cb10-48be-a473-c17219ffded3" />
+
 
 ## Graph
+<img width="1608" height="362" alt="image" src="https://github.com/user-attachments/assets/d0cdd1d8-8642-4e46-a2b8-6f2b7405e263" />
+
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
 
